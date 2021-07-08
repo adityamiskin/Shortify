@@ -1,0 +1,37 @@
+.title{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sr-only{
+    margin-bottom: 1rem;
+}
+
+.form-control{
+    margin-bottom: 1rem;
+}
+
+.table{
+    table-layout:fixed;
+    width:100%;
+    /* word-break: break-word; */
+}
+
+.container{
+    width: 90%;
+}
+.container table{
+    max-width: 100%;
+    width: 100% !important;
+}
+
+td, th{
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+.center{
+    text-align: center;  
+}
